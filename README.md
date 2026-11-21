@@ -19,7 +19,7 @@ RENT CONSOLES es una web que conecta a dueños de una PS5 («anfitriones») con 
 
 ## ¿Tienes una PS5? Gana dinero con ella
 
-Tu consola sigue en tu casa y tú pones el precio por hora. Un jugador la elige en la web, te paga por transferencia o en Bitcoin y, cuando confirmas que el dinero llegó, juega en ella durante el tiempo que pagó. **RENT CONSOLES no cobra comisión:** lo que pagan es para ti.
+Tu consola sigue en tu casa y tú pones el precio por hora. Un jugador la elige en la web, te paga por transferencia o en Bitcoin y, cuando confirmas que el dinero llegó, juega en ella durante el tiempo que pagó. **De momento, RENT CONSOLES no cobra comisión:** lo que pagan es para ti. Cuando empiece a cobrar (un 10 % por alquiler), lo avisará con antelación en «Mi consola».
 
 ### Qué necesitas
 
@@ -38,7 +38,7 @@ Tu consola sigue en tu casa y tú pones el precio por hora. Un jugador la elige 
 
 ### Cuánto puedes ganar
 
-**Precio por hora × horas alquiladas.** Sin comisión.
+**Precio por hora × horas alquiladas.** De momento, sin comisión.
 
 | Precio por hora | Horas alquiladas al mes | Ingreso al mes |
 |---|---|---|
@@ -87,7 +87,7 @@ Guía completa: **[Cómo ganar dinero con tu PS5](https://rentconsoles.com/guias
 ## Preguntas frecuentes
 
 **¿Cuánto cobra RENT CONSOLES?**
-Nada. Los jugadores pagan directamente al anfitrión.
+Al jugador, nada: paga directamente al anfitrión. Al anfitrión, de momento tampoco. Más adelante habrá una comisión del 10 % por alquiler, avisada con antelación.
 
 **¿Funciona en iPhone?**
 Sí, en Safari actualizado. También en Android (Chrome o Edge) y en PC.
