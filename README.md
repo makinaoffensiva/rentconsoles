@@ -9,7 +9,7 @@
 [rentconsoles.com](https://rentconsoles.com) · [Publicar mi PS5](https://rentconsoles.com/panel) · [Explorar consolas](https://rentconsoles.com/explorar) · [Guías](https://rentconsoles.com/guias) · [X @rentconsoles](https://x.com/rentconsoles)
 
 RENT CONSOLES es una web que conecta a dueños de una PS5 («anfitriones») con personas que quieren jugar en ella a distancia («jugadores»):
-- el jugador alquila de 15 minutos a 2 horas;
+- el jugador alquila de 15 minutos a 2 horas, o reserva hasta un día entero en las consolas 24/7;
 - paga directamente al anfitrión;
 - juega desde el navegador del celular o del PC, sin descargar nada.
 
@@ -19,13 +19,13 @@ RENT CONSOLES es una web que conecta a dueños de una PS5 («anfitriones») con 
 
 ## ¿Tienes una PS5? Gana dinero con ella
 
-Tu consola sigue en tu casa y tú pones el precio por hora. Un jugador la elige en la web, te paga por transferencia o en Bitcoin y, cuando confirmas que el dinero llegó, juega en ella durante el tiempo que pagó. **De momento, RENT CONSOLES no cobra comisión:** lo que pagan es para ti. Cuando empiece a cobrar (un 10 % por alquiler), lo avisará con antelación en «Mi consola».
+Tu consola sigue en tu casa y tú pones el precio por hora. Un jugador la elige en la web, te paga por transferencia o en Bitcoin y, cuando confirmas que el dinero llegó, juega en ella durante el tiempo que pagó. **RENT CONSOLES cobra al anfitrión una comisión del 20 % de cada alquiler terminado**, que pagas desde tu panel. La primera semana desde que publicas tu consola es gratis.
 
 ### Qué necesitas
 
 - **Una PS5** actualizada, con «Uso a distancia» activado.
 - **Un kit en tu casa:** un PC con Windows, o un celular o tablet Android 8 o posterior con la app RENT CONSOLES Kit, en la misma red que la PS5.
-- **Buena subida de Internet:** unos 5 Mbps por partida; mejor 15 Mbps y la PS5 por cable.
+- **Buena subida de Internet:** unos 5 Mbps por partida (hasta 10 Mbps a 1080p); mejor 15 Mbps y la PS5 por cable.
 - **Un usuario de PS5 dedicado** al alquiler, sin tarjeta ni saldo guardados.
 - **Una forma de cobrar:** cuenta bancaria (para jugadores de tu país) o dirección de Bitcoin (para cualquier país).
 
@@ -36,15 +36,17 @@ Tu consola sigue en tu casa y tú pones el precio por hora. Un jugador la elige 
 3. Descarga el kit y vincúlalo con el código o el QR que te muestra la web.
 4. Cuando alguien pague, revisa tu banco o tu cartera y pulsa **PAGO RECIBIDO**. Sin pago confirmado, la partida no empieza.
 
+**¿Tu PS5 está encendida todo el día?** Márcala «24/7» en tu panel: los jugadores podrán reservarla de 24 horas a 7 días antes, de 1 a 24 horas, y pagarte al reservar. Tú eliges el descuento por reservar un día entero (30 % si no lo cambias). Una reserva confirmada no se cancela, así que la PS5 y el kit tienen que estar encendidos a esa hora.
+
 ### Cuánto puedes ganar
 
-**Precio por hora × horas alquiladas.** De momento, sin comisión.
+**Precio por hora × horas alquiladas, menos la comisión del 20 %.**
 
-| Precio por hora | Horas alquiladas al mes | Ingreso al mes |
-|---|---|---|
-| 1 USD | 20 | 20 USD |
-| 2 USD | 40 | 80 USD |
-| 3 USD | 60 | 180 USD |
+| Precio por hora | Horas alquiladas al mes | Ingreso al mes | Te queda tras la comisión del 20 % |
+|---|---|---|---|
+| 1 USD | 20 | 20 USD | 16 USD |
+| 2 USD | 40 | 80 USD | 64 USD |
+| 3 USD | 60 | 180 USD | 144 USD |
 
 *Son ejemplos, no promesas.* RENT CONSOLES es un proyecto nuevo y todavía tiene pocos jugadores. Tómalo como un ingreso extra posible, no como un sueldo.
 
@@ -52,7 +54,7 @@ Tu consola sigue en tu casa y tú pones el precio por hora. Un jugador la elige 
 
 - **Condiciones de PlayStation:** limitan las cuentas a un uso personal y no comercial. Alquilar el uso de tu consola puede incumplirlas, y Sony podría restringir o suspender tu cuenta. Es un riesgo que asumes tú.
 - **Impuestos:** lo que cobras son ingresos tuyos; infórmate de cómo declararlos en tu país.
-- **Costes:** luz (una PS5 jugando consume unos 200 W), datos (unos 2 GB de subida por hora de partida) y horas de uso de la consola.
+- **Costes:** luz (una PS5 jugando consume unos 200 W), datos (de 2 a 4,5 GB de subida por hora de partida, según la calidad) y horas de uso de la consola.
 
 Guía completa: **[Cómo ganar dinero con tu PS5](https://rentconsoles.com/guias/como-ganar-dinero-con-tu-ps5)**.
 
@@ -70,7 +72,11 @@ Guía completa: **[Cómo ganar dinero con tu PS5](https://rentconsoles.com/guias
 4. Cuando el anfitrión confirma el pago, juegas en Chrome, Edge o Safari. El tiempo empieza a contar cuando llega la imagen.
 5. Al terminar, calificas al anfitrión.
 
-**Así se juega:** a 720p y 30 fps, con mando por USB o Bluetooth, controles táctiles o teclado. Gasta unos 2 GB por hora. Qué juegos hay depende de lo que tenga cada anfitrión.
+**¿Quieres seguir jugando?** Desde 20 minutos antes del final puedes añadir tiempo: lo pagas igual y, si el anfitrión lo confirma a tiempo, se suma sin cortar la partida.
+
+**¿La consola está ocupada?** A 10 minutos del final de la partida en curso puedes reservar el siguiente turno: lo pagas ya y juegas en cuanto quede libre. En las consolas **24/7** también puedes reservar para otro día, de mañana a 7 días y de 1 a 24 horas; un día entero suele tener descuento.
+
+**Así se juega:** la calidad se adapta a tu conexión, hasta 1080p a 60 fps (con el kit actualizado del anfitrión). Recomendado: un mando de PS4 o PS5, o uno genérico, por USB o Bluetooth; también hay controles táctiles y teclado. Gasta unos 2 GB por hora a 720p, y más a mayor calidad. Qué juegos hay depende de lo que tenga cada anfitrión.
 
 ---
 
@@ -87,13 +93,16 @@ Guía completa: **[Cómo ganar dinero con tu PS5](https://rentconsoles.com/guias
 ## Preguntas frecuentes
 
 **¿Cuánto cobra RENT CONSOLES?**
-Al jugador, nada: paga directamente al anfitrión. Al anfitrión, de momento tampoco. Más adelante habrá una comisión del 10 % por alquiler, avisada con antelación.
+Al jugador, nada: paga directamente al anfitrión. Al anfitrión, una comisión del 20 % de cada alquiler terminado, que paga desde su panel. La primera semana desde que publica su consola es gratis.
+
+**¿Puedo reservar una consola para otro día?**
+Sí, en las consolas marcadas 24/7: de mañana a 7 días y de 1 a 24 horas. La pagas al reservar y, una vez confirmada, no se cancela. El tiempo cuenta desde la hora reservada.
 
 **¿Funciona en iPhone?**
 Sí, en Safari actualizado. También en Android (Chrome o Edge) y en PC.
 
 **¿Necesito mando?**
-No es obligatorio: hay controles táctiles en el celular y teclado en el PC. Con mando se juega mejor.
+No es obligatorio: hay controles táctiles en el celular y teclado en el PC. Con mando se juega mejor: recomendamos uno de PS4 o PS5, o uno genérico.
 
 **¿Desde qué países se puede jugar?**
 Desde cualquiera. Con Bitcoin se paga a un anfitrión de cualquier país; la transferencia solo entre personas del mismo país. Cuanto más cerca esté la consola, menos retraso.
